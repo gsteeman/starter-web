@@ -17,6 +17,8 @@ ejemplo de deploy
 
 ## How to contribute
 
+Please fork this repo
+
 ## Copyright
 
 2026 Git training
