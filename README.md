@@ -16,3 +16,7 @@ otro cambio pesado mas
 ejemplo de deploy
 
 ## How to contribute
+
+## Copyright
+
+2026 Git training
